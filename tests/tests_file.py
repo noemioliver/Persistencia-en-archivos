@@ -12,3 +12,6 @@ def test_agregar_texto():
 
 def test_borrar_archivo():
     pass
+
+def test_borrar_archivo_inexistente():
+    pass
