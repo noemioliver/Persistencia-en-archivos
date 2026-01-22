@@ -9,3 +9,6 @@ def test_actualizar_archivo():
 
 def test_agregar_texto():
     pass
+
+def test_borrar_archivo():
+    pass
